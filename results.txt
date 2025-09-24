@@ -1,0 +1,56 @@
+liberated/test on  main [✘!+?] via 🐍 v3.13.7 (venv)
+❯ lb test ~/Documents/ice_collapse/papers/d11_theoretical_frameworks/'d11.p2.A simple model of ultrasound propagation in a cavitating liquid. Part I.pdf'
+🚀 Liberating into domain test ...
+📂 CWD: /home/user/Documents/ice_collapse/liberated/test
+🏷️  DOMAIN: test
+📄 PDF: /home/user/Documents/ice_collapse/papers/d11_theoretical_frameworks/d11.p2.A simple model of ultrasound propagation in a cavitating liquid. Part I.pdf
+🆕 Paper ID: test_p2
+📁 Output Dir: /home/user/Documents/ice_collapse/liberated/test/test_p2
+🚀 Liberating /home/user/Documents/ice_collapse/papers/d11_theoretical_frameworks/d11.p2.A simple model of ultrasound propagation in a cavitating liquid. Part I.pdf -> /home/user/Documents/ice_collapse/liberated/test/test_p2
+📄 Rendering page 1/13
+📄 Rendering page 2/13
+📄 Rendering page 3/13
+📄 Rendering page 4/13
+📄 Rendering page 5/13
+📄 Rendering page 6/13
+📄 Rendering page 7/13
+📄 Rendering page 8/13
+📄 Rendering page 9/13
+📄 Rendering page 10/13
+📄 Rendering page 11/13
+📄 Rendering page 12/13
+📄 Rendering page 13/13
+🔎 OCR: test_p2.page01.png
+🔎 OCR: test_p2.page02.png
+🔎 OCR: test_p2.page03.png
+🔎 OCR: test_p2.page04.png
+🔎 OCR: test_p2.page05.png
+🔎 OCR: test_p2.page06.png
+🔎 OCR: test_p2.page07.png
+🔎 OCR: test_p2.page08.png
+🔎 OCR: test_p2.page09.png
+🔎 OCR: test_p2.page10.png
+🔎 OCR: test_p2.page11.png
+🔎 OCR: test_p2.page12.png
+🔎 OCR: test_p2.page13.png
+✅ Liberation complete
+
+================ LIBERATION SUMMARY ================
+
+📝 Text file:      test_p2/test_p2.text.md
+🖼️  Page images:   13 (of 13 pages)
+   • test_p2/test_p2.page01.png
+   • test_p2/test_p2.page02.png
+   • test_p2/test_p2.page03.png
+   • ...
+🔎 OCR files:      13 (one per page)
+   • test_p2/ocr_page01.txt
+   • test_p2/ocr_page02.txt
+   • test_p2/ocr_page03.txt
+   • ...
+
+✅ Done.
+====================================================
+
+
+liberated/test on  main [✘!+?] via 🐍 v3.13.7 (venv) took 4s
