@@ -1,0 +1,54 @@
+0° e pv is the acoustic intensity, or flux density of me-
+chanical energy. It is supplied at a vibrating bound-
+10° ary in contact with the bubbly liquid, typically by
+0 AN the oscillating motion of the sonotrode 58].
+0 ; TTT In what follows, we will assume periodic oscillations
+Ee 10 of all the fields. Averaging Eq. over one cycle, the
+= 0" : time-derivative in the left side cancels and we get:
+= i -T _
+10 ] PE V. (pv) = —N (Il, + II). (19)
+107° —— Equation is the conservation of mechanical energy
+_4 | averaged over one period of oscillation, and has a clear
+10 a physical interpretation: the balance between the acous-
+tic energy leaving a volume of bubbly liquid and the one
+0.2 0.5 1 2 5 8 15 reaching it is always negative, owing to thermal loss in the
+Ry (pm) bubble and viscous friction in the radially moving liquid.
+Each bubble therefore appears as a dissipator of acoustic
+Figure 3: Same as Figs.[Iland [2] but varying Rg for P* = 1.5. The energy, owing to these two phenomena. The physical ori-
+vertical dash-dotted line represents the Blake threshold. gin of wave attenuation is thus self-contained in the Caflish
+model, even for nonlinear oscillations, provided that a cor-
+eral orders of magnitude. We therefore expect the real rect mode! Is used to describe thermal diffusion in the
+wave attenuation in a liquid containing inertial bubbles bubble interior. Caflish and co-workers proposed a COT
+(above the Blake threshold) to be much higher than the servation equation similar to (18). disregarding Viscosity
+value calculated by linear theory. We will quantify this and ASSUIILING isothermal oscillations, in which case me-
+boint in Sec. chanical energy is conserved 32|. It should also be noted
+Although the above results are sufficient to carry on that Eq. reverts exactly the equation solved in 1D by
+the development of our model, it is instructive to close Rozenberg 41] in the case of purely traveling waves, but
+this section by relating the dissipation functions Il;;, and Hh the latter work, the dissipated power was fitted from
+IT, to the conservation of acoustic energy, generalizing the experimental data, rather than being calculated ab initio
+conservation equation proposed in the original paper of from single bubble dynamics as done in the present work.
+Caflish et al. 32].
+3. The model
+2.4. Conservation of energy in the bubbly liquid
+The term pdV/0t can be eliminated between equations 3.1. Intuitive approach
+and (7), by multiplicating the latter by IV, to obtain a We first recall that the velocity field can be eliminated
+global energy conservation equation of the bubbly liquid: between Eq. and (2) to yield an equation involving only
+the pressure field 20, 32]:
+0 (Lr 1 2 NK + dnNoR?
+5 (52 + gon + LT ATO ) 2 _ 10% 9°p 20
+i. (18) Ss (20)
++ V. (pv) = Npg—- — N16 RR. |
+Setting the pressure field p as a mono-harmonic wave:
+Equation represents the conservation of mechanical .
+energy of the bubbly liquid: p(r,t) = : (Pre n Pre)
+5 oN : :
+* v/ > tie he rae) Sone oF the linearization of the above equation and of the bubble
+Wave dynamics equation allows to show that the complex field
+P fulfills an Helmholtz equation:
+e pv? /2 is the kinetic energy per unit volume of the , ,
+pure liquid involved in the propagation of the wave, VAP + EP = 0,
+e NK; is the kinetic energy per unit volume of the where the complex wave number is given by the linear
+liquid in its radial motion around the bubbles, dispersion relation 17, 20, 23, 28, 32]:
+oe 4TNoR? is the interfacial potential energy per unit , Ww? 4m Row? N
+volume, k™ = 2 - wg — w+ 2ibw (21)
+6

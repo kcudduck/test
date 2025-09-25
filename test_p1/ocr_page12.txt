@@ -1,0 +1,84 @@
+References [34] I. Akhatov, U. Parlitz, W. Lauterborn, J. Acoust. Soc. Am.
+96 (6) (1994) 3627-3635.
+
+[1] S. Hilgenfeldt, D. Lohse, M. P. Brenner, Phys. Fluids 8 (11) [35] E. Silberman, J. Acoust. Soc. Am. 29 (8) (1957) 925-933.
+(1996) 2808-2826. [36] C. Campos-Pozuelo, C. Granger, C. Vanhille, A. Moussatov,
+
+2] Y. Hao, A. Prosperetti, Phys. Fluids 11 (6) (1999) 1309-1317. B. Dubus, Ultrasonics Sonochemistry 12 (2005) 79-84.
+
+3] L. Yuan, C. Y. Ho, M. C. Chu, P. T. Leung, Phys. Rev. E [37] S. Dahnke, K. M. Swamy, F. J. Keil, Ultrasonics Sonochemistry
+64 (016317) (2001) 1-6. 6 (1999) 31-41.
+
+[4] B. D. Storey, Phys. Rev. E 64 (2001) 017301-1-017301-3. [38] S. Dahnke, K. M. Swamy, F. J. Keil, Ultrasonics Sonochemistry
+
+[5] M. P. Brenner, S. Hilgenfeldt, D. Lohse, Rev. Mod. Phys. 74 (2) 6 (4) (1999) 221 — 226.
+
+(2002) 425-483. [39] G. Servant, J. L. Laborde, A. Hita, J. P. Caltagirone, A. Gérard,
+
+6] H. Lin, B. D. Storey, A. J. Szeri, Phys. Fluids 14 (8) (2002) Ultrasonics Sonochemistry 10 (6) (2003) 347-355.
+
+2925-2928. [40] R. Mettin, P. Koch, W. Lauterborn, D. Krefting, in: Sixth
+
+[7] R. Mettin, in: T. Kurz, U. Parlitz, U. Kaatze (Eds.), Oscil- International Symposium on Cavitation - CAV2006 (paper 75),
+lations, Waves and Interactions, Universitatsverlag Gottingen, Wageningen (The Netherlands), 2006, pp. 125-129.
+
+2007, pp. 171-198. [41] L. D. Rozenberg, in: L. D. Rozenberg (Ed.), High-intensity
+
+[8] R. G. Holt, D. F. Gaitan, Phys. Rev. Lett. 77 (1996) 3791-3794. ultrasonic fields, Plenum Press, New-York, 1971.
+
+9] R. Mettin, in: A. A. Doinikov (Ed.), Bubble and Particle Dy- [42] O. Louisnard, Contribution a I’étude de la propagation des ul-
+namics in Acoustic Fields: Modern Trends and Applications, trasons en milieu cavitant., These de doctorat, Ecole des Mines
+Research Signpost, Kerala (India), 2005, pp. 1-36. de Paris (1998).
+
+[10] R. Mettin, J. Appel, D. Krefting, R. Geisler, P. Koch, [43] C. Vanhille, C. Campos-Pozuelo, Ultrasonics Sonochemistry 16
+W. Lauterborn, in: Special Issue of the Revista de Acustica, Fo- (2009) 669-685.
+rum Acusticum Sevilla, Spain, 16-20 Sept. 2002, Vol. XXXIII, [44] O. Louisnard, Physics Procedia 3 (1) (2010) 735 — 742, inter-
+Sevilla, Spain, 2002, pp. 1-4. national Congress on Ultrasonics, Santiago de Chile, January
+[11] R. Mettin, P. Koch, D. Krefting, W. Lauterborn, in: O. V. 2009.
+Rudenko, O. A. Sapozhnikov (Eds.), Nonlinear Acoustics at the 145] I. Akhatov, N. Gumerov, C. D. Ohl, U. Parlitz, W. Lauterborn,
+Beginning of the 21st Century, (Proceedings of the 16th Inter- Phys. Rev. Lett. 78 (2) (1997) 227-230.
+national Symposium on Nonlinear Acoustics ISNA-16), Vol. 2, 46] S. Hilgenfeldt, M. P. Brenner, S. Grossman, D. Lohse, J. Fluid
+Faculty of Physics, MSU, Moscow, 2002, 2006, pp. 1003-1006. Mech. 365 (1998) 171-204.
+[12] A. Moussatov, C. Granger, B. Dubus, Ultrasonics Sonochem- [47] O. Louisnard, F. Gomez, Phys. Rev. E 67 (3) (2003) 036610.
+istry 10 (2003) 191-195. 48] O. Louisnard, Phys. Rev. E 78 (3) (2008) 036322.
+[13] J. Appel, P. Koch, R. Mettin, W. Lauterborn, Ultrasonics Sono- [49] T. J. Matula, Philos. Trans. R. Soc. London, Ser. A 357 (1999)
+chemistry 11 (2004) 39-42. 225-249.
+[14] I. Akhatov, R. Mettin, C. D. Ohl, U. Parlitz, W. Lauterborn, [50] O. Louisnard, In preparation .
+Phys. Rev. E 55 (3) (1997) 3747-3750. [51] R. Toegel, B. Gompf, R. Pecha, D. Lohse, Phys. Rev. Lett.
+[15] R. Mettin, I. Akhatov, U. Parlitz, C. D. Ohl, W. Lauterborn, 85 (15) (2000) 3165-3168.
+Phys. Rev. E 56 (3) (1997) 2924-2931. [52] B. D. Storey, A. Szeri, Proc. R. Soc. London, Ser. A 457 (2001)
+[16] U. Parlitz, R. Mettin, S. Luther, I. Akhatov, M. Voss, 1685-1700.
+W. Lauterborn, Phil. Trans. R. Soc. Lond. A 357 (1999) 313— [53] T. J. Matula, P. R. Hilmo, B. D. Storey, A. J. Szeri, Phys.
+334. Fluids 14 (3) (2002) 913-921.
+[17] L. L. Foldy, Phys. Rev. 67 (3-4) (1944) 107-119. 54] J. C. Devin, J. Acoust. Soc. Am. 31 (12) (1959) 1654-1667.
+[18] E. L. Carstensen, L. L. Foldy, J. Acoust. Soc. Am. 19 (3) (1947) [55] A. Prosperetti, J. Acoust. Soc. Am. 61 (1) (1977) 17-27.
+481-501. [56] A. Prosperetti, L. A. Crum, K. W. Commander, J. Acoust. Soc.
+[19] P. M. Morse, H. Feshbach, Methods of theoretical physics, Am. 83 (1988) 502-514.
+McGraw-Hill, 1953. 57] D. F. Gaitan, R. G. Holt, Phys. Rev. E 59 (1999) 5495-5502.
+20] K. W. Commander, A. Prosperetti, J. Acoust. Soc. Am. 85 (2) [58] O. Louisnard, J. Gonzalez-Garcia, I. Tudela, J. Klima, V. Saez,
+(1989) 732-746. Y. Vargas-Hernandez, Ultrasonics Sonochemistry 16 (2009)
+[21] A. Prosperetti, in: S. Morioka, L.. van Wijngaarden (Eds.), TU- 250-259.
+TAM Symposium on waves in liquid /gas and liquid /vapour two- [59] F. Burdin, N. A. Tsochatzidis, P. Guiraud, A. M. Wilhelm,
+phase systems, Kluwer Academic Publishers, 1995, pp. 55-65. H. Delmas, Ultrasonics Sonochemistry 6 (1999) 43-51.
+22] S. Iordansky, J. Appl. Mech. Tech. Phys. 3 (1960) 102-110. [60] P. M. Morse, K. U. Ingard, Theoretical acoustics, McGraw-Hill,
+23] L. van Wijngaarden, in: th Symposium on Naval Hydrody- 1968.
+namics, Office of Naval Research, Washington DC, 1966, pp. 61] J. B. Keller, M. Miksis, J. Acoust. Soc. Am. 68 (1980) 628-633.
+115-1928. 62] A. Prosperetti, A. Lezzi, J. Fluid Mech. 168 (1986) 457-478.
+[24] L. van Wijngaarden, J. Fluid Mech. 33 (3) (1968) 465-474. [63] A. A. Doinikov, Recent Res. Devel. Acoustics 2 (2005) 13-38.
+[25] G. B. Whitham, Linear and nonlinear waves, Wiley- [64] M. L. Calvisi, O. Lindau, J. R. Blake, A. J. Szeri, Physics of
+Interscience, 1974. Fluids 19 (4) (2007) 047101—.
+26] L. van Wijngaarden, Ann. Rev. Fluid Mech. 4 (1972) 369-396.
+27] V. V. Kuznetsov, V. E. Nakoriakov, B. G. Pokusaev, I. R.
+Schreiber, JETP Lett. 23 (1976) 172-176.
+28] A. Prosperetti, J. Fluid. Mech. 222 (1991) 587-616.
+29] L. Noordzij, L.. van Wijngaarden, J. Fluid Mech. 66 (1) (1972)
+115-143.
+[30] V. V. Kuznetsov, V. E. Nakoriakov, B. G. Pokusaev, I. R.
+Schreiber, J. Fluid Mech. 85 (1978) 85-96.
+[31] L. van Wijngaarden, Acta Applicandae Mathematicae 39 (1995)
+507-516.
+32] R. E. Caflish, M. J. Miksis, G. C. Papanicolaou, L. Ting, J.
+Fluid Mech. 153 (1985) 259-273.
+[33] Y. A. Kobelev, L. A. Ostrovskii, J. Acoust. Soc. Am. 85 (2)
+(1989) 621-629.
+12

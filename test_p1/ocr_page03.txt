@@ -1,0 +1,58 @@
+the energy dissipation calculated in section 2. Finally, in 2.2. Bubble dynamacs
+section |4] the resulting nonlinear Helmholtz equation is The bubble radial motion equation can be described by
+solved numerically in a 1D configuration, and a detailed a radial dynamics equation. The Caflish model in its orig-
+analysis of the obtained wave profiles is performed. The inal form uses a inviscid Rayleigh-Plesset equation with
+implications of the present results on the primary Bjerknes isothermal behavior of the bubble, in which the infinite
+forces and 2D simulations of classical experimental config- driving pressure field is the mean local acoustic pressure
+urations are deferred in a companion paper. field p(r,t). In the present study, we want to examine the
+energy dissipation by heat transfer between the bubble
+2. Theory interior and the liquid, and by viscous friction in the ra-
+dial motion of the liquid around the bubble. We therefore
+2.1. Caflish equations leave the bubble pressure p, unspecified for now, and add
+The Caflish model 32] describes the propagation of an the classical viscous term in the Rayleigh-Plesset equation.
+acoustic wave of arbitrary amplitude in a bubbly liquid Besides, since surface tension plays a preponderant role in
+described as a continuum, which means that the radial inertial cavitation 45-48], we also added the correction ac-
+oscillations of all the bubbles pertaining to an elementary counting for the latter effect, so that the bubble dynamics
+small volume of mixture located at a spatial point r can be is given by:
+described by a continuous spatio-temporal radius function |
+An). The i vo contin of he wl compond (ity 3) <p, 2 hn 0
+1 Op op _ Co
+2 +V.v = 5 (1) where pu; is the liquid dynamic viscosity, and o the surface
+PLE tension. All the quantities R, p, and p in this equation
+A +Vp = 0. (2) are spatio-temporal fields, depending on both r and ¢, so
+ot that the time derivatives represented by over-dots in this
+In the above equations, p(r,t) is the acoustic pressure field, equation must be understood as partial derivatives 9/0t
+v(r,t) the velocity field, p; the liquid density, ¢; the sound at r constant. We did not add any corrections accounting
+speed in the liquid, and #(r,t) is the instantaneous void- for liquid compressibility, in order to keep a reasonably
+fraction, which, assuming a mono-disperse distribution of = simple model. We defer the discussion of this choice to
+the bubbles, can be defined by: the conclusion section.
+4 For further use in the paper, we recall that when a bub-
+B(r,t) = N(r) STR, t)?, (3) ble is driven by a sinusoidal pressure field p = pg [1 — P* sin(27 ft)]
+around the ambient pressure pg, its oscillations become
+where N(r) is the local bubble density. The latter is as-  inertia-controlled and involve a strong collapse when the
+sumed time-independent, or at least almost constant on driving pressure amplitude is above the Blake threshold
+the time scale of the oscillations. Despite the set of equa- 45-47):
+tions and is very similar to the equations of lin-
+ear acoustics, the presence of the right-hand-side term of 4 §3 \ 1/2
+Eq. renders the whole model nonlinear. Following the Pp =1+ (5 =) ) (6)
+procedure classically used for linear acoustics, these two
+equations can be easily recast into an equation of energy ~~ Where S = 20/(poRo) is the dimensionless Laplace ten-
+conservation, by multiplying by p and by Vv: sion and Ry the bubble ambient radius. Such an oscilla-
+, oy tion regime, historically termed as “transient cavitation”,
+O 1 . . “ . . ca
+= (3 pt n 50°) LV. (pv) = Np (4) 1s mow classically named as “inertial cavitation” 5, 49].
+where V (r,t) denotes the instantaneous volume of the bub- <3. Energy dissipation per bubble
+bles located at r. The time derivative in the lett-hand-side In order to get an energetic interpretation of the bubble
+(LHS) of this equation represent the time-variations of the radial motion, equation can be multiplied by the time
+acoustic energy density, which is the sum of kinetic energy derivative of the bubble volume ov/ ot, and noting that
+and potential compressional energy of the pure liquid. The pr(RR + 517) x OV/0t is the time-derivative of the radial
+second LHS-term is the divergence of the acoustic intensity kinetic energy of the liquid K; = 2mp, R>R?, we obtain:
+pv. The right-hand-side (RHS), which would be zero for a 9 | PY IV
+linear wave propagating in the pure liquid, represents the — (K | + An R*0) = — 16m RR* — p— + pg—- (7)
+: ot ot ot
+mechanical power exchanged between the acoustic wave
+and the bubbles. As will be seen below, part of this en- This equation is strictly equivalent to the Rayleigh equa-
+ergy is irreversibly dissipated along the radial oscillations tion, and is the expression of the theorem of kinetic energy
+of the bubbles, which is the physical origin of the acoustic applied to the liquid surrounding the bubble. The paren-
+wave attenuation. thesis in the LHS of represents the sum of the kinetic
+3

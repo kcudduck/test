@@ -1,0 +1,53 @@
+A simple model of ultrasound propagation in a cavitating liquid. Part I: Theory,
+nonlinear attenuation and traveling wave generation.
+O. Louisnard®*
+“Centre RAPSODEE, FRE CNRS 32183, Unwversité de Toulouse, Ecole des Mines d’Alb1,
+81018 Alby Cedex 09, France
+cn
+= Abstract
+a The bubbles involved in sonochemistry and other applications of cavitation oscillate inertially. A correct estimation of
+o the wave attenuation in such bubbly media requires a realistic estimation of the power dissipated by the oscillation of
+O each bubble, by thermal diffusion in the gas and viscous friction in the liquid. Both quantities and calculated numerically
+for a single inertial bubble driven at 20 kHz, and are found to be several orders of magnitude larger than the linear
+g g
+on prediction. Viscous dissipation is found to be the predominant cause of energy loss for bubbles small enough. Then,
+oe the classical nonlinear Caflish equations describing the propagation of acoustic waves in a bubbly liquid are recast and
+simplified conveniently. The main harmonic part of the sound field is found to fulfill a nonlinear Helmholtz equation,
+| - 'where the imaginary part of the squared wave number is directly correlated with the energy lost by a single bubble. For
+— low acoustic driving, linear theory is recovered, but for larger drivings, namely above the Blake threshold, the attenuation
+= coefficient is found to be more than 3 orders of magnitude larger then the linear prediction. A huge attenuation of the
+~ wave is thus expected in regions where inertial bubbles are present, which is confirmed by numerical simulations of the
+— nonlinear Helmholtz equation in a 1D standing wave configuration. The expected strong attenuation is not only observed
+. but furthermore, the examination of the phase between the pressure field and its gradient clearly demonstrates that a
+g y
+3 traveling wave appears in the medium.
+Rp
+on Keywords: Acoustic cavitation, Bubble dynamics, Propagation in bubbly liquids, Wave attenuation
+2 PACS: 43.25.Yw, 43.35.E1, 43.25.G{
+=
+1. Introduction in the context of strongly nonlinear inertial radial oscilla-
+— tions and traveling waves 7, 14, 15].
+2 The complexity and large variety of spatial and tem- On this basis, the action of the acoustic field on the
+Va poral scales involved in acoustic cavitation make difficult organization of inertial bubbles has been satisfactorily de-
+oO the derivation of a full theoretical model, accounting for scribed in various configurations by particle models 7, 10,
+Ya the coupled effects between the bubble field and the sound 13, 16], by calculating the forces exerted on the bubbles di-
+J field. Nevertheless, considerable progress has been made rectly from their nonlinear dynamics. Assuming a simple
+on the last decade. Theoretical studies in the context of shape of the sound field, some bubble structures have been
+cr) single bubble sonoluminescence have allowed to restrict remarkably caught by this method. However, the correct
+— the ambient size of the bubbles in the micron range, owing ,rediction of other structures was found to be more diffi-
+> to surface instabilities 1-70. This has been confirmed by cult, mainly because, as suggested by Mettin [9], the local
+Ne 20 kHz experiments, both in single bubble 8] and multl- sound field might have a complicated shape, which cannot
+A bubble configurations (see Ref. 9) and references therein). pe inferred without describing correctly the acoustic field
+Besides, a large collection of experimental observations in the medium.
+have revealed that radially oscillating bubbles in high- The backward effect of inertial bubbles on the propa-
+intensity acoustic fields tend to self-organize into bubble cation of acoustic waves remains mainly unexplored. The
+structures, which shapes depend on the experimental con-  5in physical effects of the bubble radial oscillations on
+figuration, with possibly two structures or more appearing yond waves can be easily understood qualitatively. Bub-
+simultaneously in different zones of the liquid 9-13]. The ples are mechanical oscillators so that wave dispersion is
+shape of such structures 1s strongly correlated with the  ovhected. They oscillate non linearly for large amplitude
+fundamental Issue of the translational motion of the bub- drivings, so that waves should be nonlinear. Finally, they
+bles under Bjerknes forces, which have been reconsidered dissipate mechanical energy by various processes, which
+should produce wave attenuation. The problem has been
+“Corresponding author attacked in the early work of Foldy 17] who considered
+Email address: louisnar@enstimac.fr (O. Louisnard) linear scattering of waves by an arbitrary statistical distri-
+Preprint submitted to Elsevier November 27, 2024

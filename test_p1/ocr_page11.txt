@@ -1,0 +1,62 @@
+Although this is the original formulation of the Caflish ~~ will address the calculation of the Bjerknes forces in the
+model, the compressibility of the liquid produces sound acoustic fields calculated with the present model, and the
+scattering, and contributes therefore to the attenuation of resulting bubble structures predicted in more complex 2D
+waves in bubbly liquids, as is well-known in the linear case configurations.
+17, 20]. One may therefore replace Eq. for example
+by a Keller equation 61-63], and reformulate the energy
+equation to it an ET contribution of radi- 6. Acknowledgments
+ation II, in its right-hand-side. This would in turn add a The author acknowledges the support of the French
+contribution in Eq. (33), and produce more wave attenua- Agence Nationale de la Recherche (ANR), under grant
+tion. However, the procedure is not straightforward, and SONONUCLICE (ANR-09-BLAN-0040-02) ” Controle par
+the energetical interpretation in this case is less easy. One ultrasons de la nucléation de la glace pour I'optimisation
+of the reasons for that is that compressible bubble dynam- jeg procédés de congélation et de lyophilisation”. Besides
+ics equations are not exact solutions of the basic physical the author would like to thank Nicolas Huc of COMSOL
+principles 62, 63], but only first terms of expansions in the France for his help in solving convergence issues.
+parameter R/c;. It is also expected that sound scattering
+also modifies the real part of k?, which again raises the
+issue of a correct expression for the latter. However, it
+may be conjectured that, in the low frequency range stud-
+ied here, the power loss by sound scattering is much lower
+than the one produced by viscous dissipation, because, as
+for thermal effects, sound radiation occurs mainly in the
+vicinity of the collapse. Thus we expect that the model in
+its present form catches the main dissipation phenomenon
+and that the values proposed for S(k?%) is a good estima-
+tion. This will be examined in more details in future work.
+
+The occurrence of traveling waves, aside of the issue
+of the Bjerknes forces examined in the companion paper,
+may also have fundamental consequences on the final stage
+of the bubbles collapse. Indeed, it has been shown recently
+that bubbles in traveling waves are more exposed to shape
+instabilities and can undergo jetting, which reduces the fi-
+nal collapse temperature 64], compared to a spherically
+collapsing bubble. This would therefore influence the esti-
+mation of the heat lost by a single bubble, but the spherical
+collapse model used in the present study yields an upper
+value.
+
+Besides, measurements of the acoustic field in conical
+structures has revealed the presence of a time-independent
+mean pressure field, which amplitude may be comparable
+with the first-harmonic part 36]. Our model does not
+catch this feature, and there is yet no correct theoreti-
+cal description of this phenomenon. We emphasize how-
+ever that our derivation of the imaginary part of the wave
+number is valid even in this case, since our decomposition
+of the field Eq. accounts a priori for the presence of
+such a mean field. This suggests that the present model
+could be supplemented by a specific equation describing
+this mean pressure field, which remains to be determined.
+
+To conclude, we believe that the present model opens
+the way to more realistic simulations of the coupled evo-
+lution of the cavitation field and the acoustic field. The
+nonlinear Helmholtz equation is relatively easy to solve
+and constitutes a viable solution halfway between a fully
+nonlinear simulation of the Caflish equations, which re-
+quires painful, if not intractable, temporal integration, and
+a fully linearized model which, as shown above, yields un-
+realistic acoustic pressure values. The companion paper
+
+11

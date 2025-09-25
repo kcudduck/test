@@ -1,0 +1,43 @@
+List of Figures
+1 Dimensionless power dissipated by an ar-
+gon bubble of ambient radius Ry = 3 um
+in water, at 20 kHz: by viscosity II [thick
+solid line, from Eq. (I3)]; by thermal diffu-
+sion, ITY, [thick dashed line, from Eq ([12)].
+The thin lines are the corresponding values
+obtained from linear theory, Eqs. (15)-(16)
+(solid: II? |. ; dashed: IIf} ;;,)- The ver-
+tical dash-dotted line represents the Blake
+threshold calculated by Eq. (6) . . . . . . .
+2 Same as Fig.[Qlfor a 8 ym bubble. . . . . .
+3 Same as Figs. [Il and [2] but varying Ry for
+P* = 1.5. The vertical dash-dotted line rep-
+resents the Blake threshold. . . . . . . . .. &
+4 Real part (dashed) and imaginary part (solid)
+of the wave number k. The thin horizontal
+lines are predictions from linear theory
+and the thick lines are results calculated
+from Eqs. (33), (85). The vertical dash-
+dotted line represents the Blake threshold. . E
+5 Peak value of the dimensionless pressure field,
+calculated by solving numerically Eq.
+for various emitter displacement amplitudes.
+Solid line: Uy = 5 pum; dashed line: Uy =
+0.5 um; dash-dotted line: Uy = 0.2 pm. . . [9
+6 Wave profiles for an amplitude of the emit-
+ter of 5 um. Thick solid curve: predicted by
+the present model (same as the thick solid
+curve of Fig. [5); thin solid curve: obtained
+by the linear dispersion relation Eq. (21);
+thin dashed curve: obtained in the pure lig-
+7 Phase between pressure and pressure gradi-
+ent in the same conditions as Fig. [5] The
+line-styles are the same as for Fig.[5] . . . .
+8 Phase of the complex wave number k di-
+vided by mr, in the same conditions as Fig.[5]
+for Uy = 5 pum (solid line) Uy = 0.5 um
+(dashed line), and Uy = 0.2 pm (dashed-
+dotted line). For the largest amplitude, the
+wave number near the emitter is seen to ap-
+proach —m/4, as expected from Eq. (38). . .
+13

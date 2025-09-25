@@ -1,0 +1,58 @@
+traveling character of the wave. 0.05
+In the configuration studied here, where the domain is
+closed with perfectly reflecting boundaries, linear acous- O——;-— I —
+tics without dissipation would predict a perfect standing Vo \ : i
+wave. However, if there is attenuation in the medium, a _0.05 / \ V
+traveling wave component appears, because the reflected <
+wave is of lower amplitude than the incident wave. This Ping
+can be checked on Fig. [7] where sin” @ is displayed for the = —0.1
+same simulation conditions as Fig. It is seen that for 5
+low driving amplitudes (Uy = 0.2 um, dash-dotted line), -0.15
+sin @ is 0 everywhere, so that we have an almost perfect
+standing wave (which was clearly visible on Fig. [5). But -0.2
+for higher emitter amplitude (Uy = 0.5 um, dashed line),
+sin” @ starts to increase everywhere in the medium, espe- -0.25
+cially near the pressure antinodes, and for Uy = 5 pum (solid 0 0.02 0.04 0.06 0.08 0.1
+line), sin” @ progressively increases toward 1 in a large part r (m)
+of the medium.
+Figure 8: Phase of the complex wave number k divided by 7, in the
+same conditions as Fig. |5| for Ug = 5 pm (solid line) Up = 0.5 um
+1 ) ‘ \ (dashed line), and Up = 0.2 um (dashed-dotted line). For the largest
+I ! ! I amplitude, the wave number near the emitter is seen to approach
+| Y\ ! —m/4, as expected from Eq. (38).
+0.8/ 1 Yh
+» _- : of magnitude). Although the latter conclusion is qualita-
+0.or | ; Po ny | ’ tively intuitive, to our knowledge, no quantitative estima-
+Sa ' ro ry - » tion has ever been reported.
+B= 0.4 or \ Co ro = n Under the assumption that the bubbles are mainly ex-
+~ PE SR = ¥ cited by the first harmonic content of the acoustic field, the
+No Noo Co ' latter fulfills approximately a nonlinear Helmholtz equa-
+0.2 Te Te ’ Co / tion. The imaginary part of the squared wave number is
+\ Nl A estimated rigorously from the energy dissipated by a sin-
+0 mmm mm mmm mm mm mmm mm mm gle bubble, which can be easily calculated by solving a
+bubble dynamic equation. The real part is still arbitrarily
+0 0.02 0.04 0.06 0.08 0.1 estimated from the linear theory, but this arbitrary choice
+I. (m) was shown to be of low importance, owing to the the huge
+value of the imaginary part. This has the importance con-
+Figure 7: Phase between pressure and pressure gradient in the same sequence that in bubbly 2O1ES, the attenuation factor is of
+conditions as Fig.[5] The line-styles are the same as for Fig. [5] the same order of magnitude as the real part of the wave
+number, which results in a strong attenuation of the wave.
+The model has been solved in a typical 1D-domain,
+Finally, Fig.[8lconfirms that, as shown above [see Eq. (38)], and yields as expected a strongly attenuated wave pro-
+the phase of the complex wave number k is close to —r/4 file near the emitter for high amplitude vibrations ot the
+in zones where the bubbles oscillate inertially. The wave latter. The amplitude of the calculated acoustic pressure
+number k is thus proportional to 1 — i, which means that fields are realistic, contrarily to linear theory. This strong
+the attenuation factor ov and the real part k, of the wave attenuation yields in turn a traveling component in the
+number are of the same orders of magnitude. wave, where purely standing waves would be expected in
+a non dissipative medium enclosed by pertectly reflecting
+) boundaries.
+5. Conclusion It is interesting to note that following the present re-
+Inertial bubbles dissipate much more energy than a lin- sults, attenuation, and therefore wave structures, are mainly
+early oscillating bubble, both by thermal diffusion in the governed Dy viscous dissipation involved in the bubble a
+gas and viscous dissipation in the liquid, the latter mecha- dial motion, the thermal effects in the bubble playing &
+nism being dominant for bubble ambient radii lower than minor role. This conjecture might be checked CEPOL
+10 um. The wave attenuation in an inertial cavitation field tally by measuring the wave attenuation for solutions of
+is therefore much larger than the value predicted by the different viscosities and with different dissolved SAS.
+classical linear dispersion relation (by typically 4 orders The choice of the incompressible Raylelgh-lesset equa-
+tion to model the bubble dynamics may be questioned.
+10

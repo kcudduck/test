@@ -1,0 +1,58 @@
+energy of the radially moving liquid and the interfacial bubble over one acoustic period is dissipated by two pro-
+potential energy. cesses: the heat flow from the bubble toward the liquid
+The first term in the RHS of Eq. is the power irre- and the viscous friction in the liquid radial motion.
+versibly lost by internal viscous friction within the liquid The integrals II, and II;;, can be evaluated numeri-
+as it moves radially. cally by solving the bubble dynamics equation for an
+The second term in the RHS is the power transferred arbitrary single bubble of ambient radius Ry excited by a
+from the acoustic field to the liquid surrounding the bub- sinusoidal forcing p = po [1 — P* sin(27 ft)], possibly vary-
+ble, and can be viewed as the energy source available to ing the acoustic parameters P* and f, the bubble ambient
+drive the bubble oscillations and the radial motion of the radius Ry, and the properties of the liquid and the gas. In
+liquid around. When multiplied by the number of bubbles this paper we will restrict to air bubbles in water at ambi-
+per unit-volume, this term is similar to the right-hand-side ent pressure excited at 20 kHz and take: pg = 101300 Pa,
+of Eq. with the opposite sign, which clearly indicates ~~ p; = 1000 kg/m?, yu; = 1073 Pa.s, 0 = 0.0725 N.m~!. The
+how energy is transferred between the driving acoustic field bubble ambient radius Ry and driving pressure amplitude
+and the radially oscillating bubble. P will be varied within a range of interest. More results
+Finally, the last term in the RHS of is the mechan- involving, among others, the effect of the frequency and
+ical power done by the gas on the liquid, and could be the type of gas will be given elsewhere 50].
+expressed as the time-derivative of a compressional energy Since II; represents the net heat flow leaving the bub-
+—0FE,/0t in the case of a barotropic relation between the ble, thermal diffusion in the bubble interior must be prop-
+bubble pressure p, and volume V (for example assuming erly accounted for in our simulations, at least in an ap-
+an isothermal 32] or adiabatic evolution of the gas). How- proximate manner. To that aim, the bubble interior is
+ever, in the general case where heat flows irreversibly be- modeled by an approximate energy conservation equation
+tween the bubble interior and the liquid, this term cannot based on a thermal diffusion layer 51-53]. Water evap-
+be expressed as the time-derivative of a potential function, oration and condensation at the bubble interface is also
+and we now detail how this term is linked to dissipation of = taken into account by a similar method, as described in
+energy over a whole oscillation cycle of the bubble. the same references. The latter refinement may be im-
+In what follows, we will assume periodic oscillations of ~~ portant since the presence of water vapor in the bubble is
+all the fields. Averaging Eq. over one cycle, the time- known to decrease the temperature collapse 51] and there-
+derivative in the left side cancels and we get: fore influences the estimation of ¢). To solve the bubble
+17 radial dynamics, the variables are non-dimensionalized by:
+(5%) = Il + 11, (8) i. . R . Do RE §
+= wt, R= —, Pg — —> IG oh = ——,
+Ry 7 po + po Vow
+where the two bubble dynamics-dependent average quan-
+tities II, and II, read: and the dimensionless dissipation functions IIf; and II
+- are calculated numerically by:
+[ep = : py 2 a (9) 1 2 To qVH
+‘ T/) “ot 7 II, = — (1-22) | ph ——dt*, (12)
+IT ! [ 16m RR? dt (10) 5 pots Jo 2 "
+v = mT . 27 *
+TJ I = = R* (5%) dt*. (13)
+The quantity II, defined by is clearly positive, and is "Po Jo :
+the period-averaged power loss by viscous friction in the For comparison purposes, we recall that assuming linear
+liquid. oscillations of the bubble, the equation of radial dynamics
+A clear interpretation of Il;;, can be obtained by ap- can be linearized by setting
+plying the first principle of thermodynamics to the whole 1 .
+bubble content, which yields integral (9) as: R(t) =1+ 5 (x et + cc.) (14)
+mM. — 1 / Tr dU, + K,) gh 1 / r 0 Tt (11) where the complex amplitude can be obtained analytically,
+tho 0 dt T J, ’ accounting rigorously for thermal effects 28, 54, 55]. In-
+Co troducing in (15)-(16), IT¥, and II¥ can be obtained
+where U, and K, depict the internal energy and kinetic analytically, and we obtain:
+energy, respectively, of the whole gas in the bubble, and ()
+Is the heat gained by the bubble Over one cycle. The first yn = 3 (1 4 my 3(D,), X|2, (15)
+integral in the right-hand-side of is zero for a periodic 2 poo
+motion, so that Il, = — (@) 1s just the net heat lost by 1) Ome) 12 (16)
+the bubble over one oscillation cycle. | Po
+Equation (8) has therefore the following physical mean- where ®, 1s a complex dimensionless number which can
+ing: the energy transferred by the acoustic field to the be expressed in terms of the gas thermal Péclet number
+4

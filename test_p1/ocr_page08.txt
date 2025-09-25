@@ -1,0 +1,60 @@
+where & denotes the imaginary part. We therefore see field since increasing the acoustic pressure also increases
+that if P were to fulfill an Helmholtz equation, the wave the attenuation. This self-saturation phenomenon is well-
+number would necessarily satisfy following relation: known in cavitation experiments 36), and will be demon-
+. . strated in the simulations of the next section.
+3 (kK?) = _2puwN— Tv (33)
+PI? 1000
+This equation is a generalization of the linear case repre- | J
+sented by Eq. (21), but here, I;;, and II, can be estimated je ===
+from fully nonlinear bubble dynamics. By the way, it can 100; “rrr yp
+be checked after a few algebra that, linearizing Il;;, and i
+11, Eq. yields the same results as taking the imagi- =)
+nary part of the dispersion relation (21). For linear oscilla- 3 10 |
+tions, Ili, and II, scale as | P|? (see left part of the curves = |
+in Figs. [1] and [2), so that linear theory yields a value of |
+3 (k?) independent of the driving amplitude | P|. This is 1 |
+no longer the case for nonlinear oscillations and Eq. |
+yields a value of (k*), which now depends on the local
+magnitude of the acoustic pressure |P)|. 01 |
+The idea of the present paper is thus to use Eq. "0 0.5 1 1.5 2 2 5
+by using the nonlinear values of Ili;, and II, obtained in p*
+Sec. to calculate &(k?), and, relying on Eq. (32), to
+introduce the latter in a nonlinear Helmholtz equation: Figure 4: Real part (dashed) and imaginary part (solid) of the wave
+VEP +k? (|P|) P = 0. (34) ory 1) and the thick limes are results exlenlated from Bas. G2). G5)
+The vertical dash-dotted line represents the Blake threshold.
+Clearly, owing to the approximations made above, some
+additional terms would appear in the exact equation ful- The real part of the wave number is also displayed in
+filled by P. However, Eq. nas the advantage to clearly Fig. [4] (thick dashed line), and the constant linear value
+link the attenuation factor to the real dissipation of en- :
+
+) ] : predicted by is recalled (thin dashed line) for com-
+ergy by the bubbles. Since it only ylelds the imaginary parison. It is interesting to note that, above the Blake
+part of £%, there remains the problem of calculating its threshold, k, closely follows a. This comes from the fact
+real part. For now, we still use the linear dispersion He” that the imaginary part of k2, calculated from the dissi-
+lation to evaluate R(k?), and defer the discussion of this : :
+
+] ) pation functions by Eq. (33), is much larger in absolute
+approximation below: value than its real part (35). This can be seen by writing
+, Ww? ATRow?N the complex wave number as:
+(k )= 5+ —F—5 (35)
+“a YoY k2 = K%expli(e —m/2)], (37)
+The attenuation coefficient and the real part of the wave ~ (19)
+number can now be deduced from: where € is a small number, since (k ) is negative and
+large. The wave number k therefore reads:
+b= hemes (36) k= Kexpli(e/2—m/4)] (38)
+and by identification with (33)-(35). |
+Figure [4] displays the attenuation coefficient a calcu- ~~ and is therefore almost equal to K (1—14)/v2, so that we
+lated by following this procedure (thick solid line), for 5 ym indeed have kr 22 a.
+bubbles, and a typical 59] void fraction 8p = 5 x 1075, as The ratio a/k, has a strong physical Sense. The atten-
+a function of the acoustic pressure |P|. The attenuation tation of the wave over one wavelength A is exp(—al) =
+coefficient rises abruptly for acoustic pressures just above ~~ XP(=27a/kr). Thus, if as in the present case a is of the
+the Blake threshold. as do II, and II, and becomes about ~~ Same order of magnitude as k,, the attenuation of the wave
+4 orders of magnitude larger than its linear value [thin ~~ Over one wavelength is of the order of exp(—27) = 0-002.
+solid line, calculated from Eq. (21)]. This demonstrates This means that as S001 as the Hiagiaty part of k% is
+that a cloud of inertial cavitation bubbles damps out the Much larger than its real part, attenuation will play a dom-
+incident wave much more drastically than linearly oscillat- inant role whatever the precise valu of its real value. This
+ing bubbles. Moreover, contrarily to the linear prediction,  ° why the PLECISe choice of Rt (k ) is of minor importance,
+the attenuation coeflicient increases with the wave peak- and Eq. is a good compromise.
+amplitude. Thus, increasing the source vibration ampli-
+tude does not necessarily produce a more extended bubble
+8

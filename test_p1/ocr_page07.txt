@@ -1,0 +1,68 @@
+In Eq. (21), wo is the resonance frequency and b the damp- ~~ Multiplicating the propagation equation by w and
+ing factor, respectively given by averaging over one acoustic period yields:
+2 _ Po 2 2
+wy = pz (LF 9R(Py) — 5], (22) 1 / 9p 0-5
+pR? J (wV?p) = Ss (w—5 )—p{w—5 ). (27)
+C; ot ot
+po(1 + S) a 414
+2 = PUT 2gp,) + EL (23) »
+pw RE PRE Integrating by parts, using the definition of w, and the fact
+It can be readily seen, that, even for sub-resonant bubbles that all quantities are periodic, we obtain:
+(w < wp), the wave number is complex because of the | Op 08
+damping factor b, which, as expected from the discussion (wV?p) = 2 (ne) + Pl (m5) : (28)
+in Sec. is correlated with the heat loss from the bubble
+and the viscous friction in the liquid. The imaginary part Using the decomposition (24), it can be easily seen that
+of the wave number represents the attenuation factor of the (wV2p) _ (wV2p; ) and that (p;9p/dt) = 0. Besides,
+Wave, and call be easily calculated by setting k = kr —1a  yqine Eq. (24), the second term of the right-hand-side of
+and identifying k, and « from Eq. (21). | oo can be expressed as:
+Generalizing this simple theory for inertial cavitation
+sounds unrealistic, since the bubble dynamics cannot be 03 03 03
+reasonably linearized for inertial oscillations. Thus all the Pros) = \Pgr /) — \FPoscgs /
+fields are not mono-harmonic anymore and the problem
+cannot be reduced to an Helmholtz equation. However, since (p,03/0t) = pm (05/0t) = 0. We now make the em-
+for periodic oscillations, either linear or not, the correla- pirical assumption that (posc03/0t) is negligible. A rigor-
+tion between the energy dissipated by each bubble over ous justification for this assumption is difficult in absence
+one cycle and the attenuation of the wave remains a uni- of results on the respective orders of magnitude of p; and
+versal principle, formalized by Eq. (8), and constitutes the = posc. However, unpublished measurements show that the
+guideline of the following derivation. latter is generally one order of magnitude lower than the
+We will therefore show that the first harmonic com- former, so that for now, we assume that the assumption is
+ponent of the field (at the frequency w of the driving) justified. We therefore conclude that:
+approximately follows an Helmholtz equation, but whose
+wave number is directly expressed as functions of the dis- (1 or) ~ (v5) (29)
+sipation functions Il; and II, presented in the precedent ot ot
+section. This procedure allows to generalize the linear Co
+Ca. A physical interpretation of this approximate equation can
+model, in the sense that the time-variable is eliminated,
+ay be given by looking at Eqs. (4), (7): it reverts to con-
+but keeping realistic values for the energy dissipated by : ) )
+: sider that the interaction between the acoustic field and
+inertial bubbles.
+the bubbles only occur through the first harmonic part of
+3.2. Derivation of the model the field, and that the bubble mainly responds to this first
+harmonic content. We will term this hypothesis as “first
+We decompose the pressure field into a sum of a time- CL
+harmonic approximation” (FHA). From this assumption
+average pressure p,,, a first harmonic pressure py, oscillat- LL.
+and the above derivation, Eq. takes therefore the ap-
+ing at the frequency of the ultrasonic source, and harmonic roximate form:
+terms noted pose, that could be written as a Fourier series b
+starting with a term at the frequency 2w: Je
+(wV?p1) = pi (p77) (30)
+ot
+p(r,t) = pm(r) + pi(r,t) + Posc(T, 1). (24)
+The first harmonic pressure field py is expressed as: and using Eq. (8), Eq. (30), we finally obtain:
+1 | _ | 2,0 \ _ _
+D1 (r, t) — 5 (Pree 1 Pye) (25) (wV D1) N (Ii + IT) . (31)
+We can now use the harmonic expressions and of
+where over-lines denote complex conjugate. Next, we set, and w, to obtain:
+w the primitive of the first harmonic pressure field:
+LB? 2D
+1 1 _ — (PVP — PV°P) = —pN (1I;y +115),
+w=g- (Pir) — Pre"). (26) dw ( ) ( )
+Ww
+and, dividing both sides of this equation by |P|*, P is
+We assume here for simplicity that there is no subharmonics finally found to fulfill:
+or ultra-harmonic terms, but the following reasoning can always be 2 p TT TT
+generalized by taking time-averages over the largest period of the X V = 2p,wN th + ly (32)
+pressure field. P | P|? ’
+7

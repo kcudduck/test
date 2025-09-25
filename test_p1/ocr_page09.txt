@@ -1,12 +1,58 @@
+4. Results
 2
-1.5
-ps \ J N\A \
-\ Vy \
-0 \ J
-[0] 002 004 006 008 01
-[20
-15
-10
-5
-TTT |
-[0] 002 004 006 008 01
+4.1. 1D wave profiles
+We consider a tube of length L filled with water, bounded
+on the left by a piston which oscillating displacement reads: 15 |
+U(t) = Uy coswt (39)
+and on the right by an infinitely soft boundary, imposing a Px 10 \ \
+zero acoustic pressure. This arbitrary boundary condition ; \ / Y CN
+was chosen so that a standing wave should be obtained in EE NEE fa IRA [ IN
+the absence of bubbles. It can be easily changed to differ- 05 N \ £ RAY 4 \
+ent and more complex conditions, as will be exemplified in NY \ F3 NY \ 4 Y
+the companion paper. 5 4 N \ vi p\
+We consider 5 ym air bubbles. This choice is partially NS \Y; 3
+justified by experimental measurements of bubble size dis- 9 0.02 0.04 0.06 0.08 0.1
+tributions at low frequency 9, 59]. In order to solve
+along with Eqs. (33)-(35), the bubble density N must be v(m)
+known. For now, we consider that bubbles are only present
+in the zones where the acoustic pressure amplitude is above Figure 5: Peak value of the dimensionless pressure field, calculated by
+solving numerically Eq. for various emitter displacement ampli-
+the Blake threshold Eq. (6), and with a uniform density: tudes. Solid line: Ug = 5 um; dashed line: Ug = 0.5 um; dash-dotted
+n ’ P Pp, line: Ug = 0.2 pum.
+o 1
+v={ 0 if |P| < Pg (40)
+20
+The nonlinear Helmholtz equation along with and VERN IN ITN
+the above boundary conditions is solved using the com- JA / \ / y
+mercial COMSOL software, and a mesh convergence was 15 | / | i |
+performed. \ / \ / \
+Figure[5ldisplays the profiles of the peak acoustic pres- \ / \ / \
+sure |P*| = P/py obtained for various amplitude of the P*| 10 | j / a \
+source. For the smallest amplitude of the emitter Uy = | /
+0.2 um, we recover a standing wave profiles in the pure Vo) /
+liquid (dash-dotted line). For a slightly larger vibration of Vo / |
+the emitter Uy = 0.5 um (dashed line), the acoustic pres- S | Lo
+sure at the antinodes 1s just above the Blake threshold, so / \ |
+that the bubbles present here start to dissipate some en- ~— \/
+ergy. This yields nonzero acoustic pressures at the nodes, % 0.02 0.04 0.06 0.08 0 1
+but the profile remains globally similar to a linear standing |
+wave profile. When the amplitude of the source is much x (m)
+larger (Uy = 5 pm, solid line), the wave profile completely
+changes, and is drastically attenuated in a zone of about Figure 6: Wave profiles for an amplitude of the emitter of 5 um.
+1 cm width near the emitter. This is due to the fact that Thick solid curve: predicted by the present model (same as the thick
+the acoustic pressure near the emitter is larger than the solid cave of Fig. [5); thin solid curve: obtained by the linear dis-
+persion relation Eq. (21); thin dashed curve: obtained in the pure
+Blake threshold, so that the bubbles present in this zone liquid.
+dissipate a lot energy. The remaining part of the profile is
+similar to a damped linear standing wave.
+In order to emphasize the importance of the nonlin- 4.2. Standing and traveling waves
+ear energy dissipation accounted for by our model, we The phase 6 between the pressure field and the pressure
+present in Fig.[6la comparison of the upper profile of Fig.[5] gradient allows to determine whether the wave is travel-
+(Ug = 5 pm, thick solid line), to the profile that would be ing or standing. For a purely traveling wave (typically
+obtained either by using the linear relation dispersion plz, t) ~ ellwi—ka)) pressure and pressure gradient are
+with the same bubble density (thin solid line), or in the in phase quadrature, so that |sinf| = 1. Conversely, for
+pure liquid (thin dashed line). The important conclusionis a purely standing wave (typically p(z,t) ~ cos(kx)e™?),
+that the two linear models predict unrealistic huge values pressure and pressure gradient are in phase or in phase op-
+of the acoustic pressure, while our model yields commonly position, so that |sinf| = 0 in the latter case 60]. Thus,
+measured amplitudes at 20 kHz (typically 1.5-3 bar 9]). the quantity sin? can be used as a measurement of the
+9

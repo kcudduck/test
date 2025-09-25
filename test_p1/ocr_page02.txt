@@ -1,0 +1,58 @@
+bution of scatterers, and obtained a linear dispersion re- remains normally weak for linear waves, except when the
+lation. The application of this theory to the specific case bubbles are close to the resonant size 17, 20, 35], which is
+of linear sound waves in bubbly liquids has been consid- the main cause of sound extinction considered in Ref. 33].
+ered in Refs. 18, 19]. A key feature in Foldy’s approach Since low-frequency inertial cavitation involves bubbles
+is that for a sufficiently dilute bubbly mixture, each bub- much smaller than the resonant size 9], the use of the
+ble behaves as if it were excited by the statistical average linear theory of Ref. 20] predicts an abnormally low at-
+pressure field, which allows to cast aside the difficult issue tenuation, compared to experimental data 36]. This is
+of bubbles pairwise interaction. An intuitive justification not astonishing since inertial bubbles typically suffer a ten-
+of this approach can be found in Refs. 20, 21]. fold expansion of their radius and are expected to dissipate
+The assumption of small amplitude waves has been re- more energy than predicted by linear theory. Despite the
+laxed by Iordansky 22| and simultaneously by van Wijn- latter restriction, the linear dispersion relation has often
+gaarden 23, 24] by a semi-empirical volume-averaging of = been used to predict attenuation of strong cavitation fields,
+the bubbly liquid equations, which is closed by a Rayleigh because it allows the description of the problem by a linear
+equation, where, as suggested by Foldy’s work, the driv- Helmholtz equation, which is easy to solve, and allows har-
+ing pressure term is the local average pressure field. The monic response simulations 37-40]. Moreover, the use of
+model obtained has allowed the study of nonlinear dis- a complex wave number provided by the linear dispersion
+persive waves. The latter are classically described by the relation in an Helmholtz equation somewhat masks the
+Korteweg-de Vries equation 25], and the reduction of van Wi- fact that one physical origin of wave attenuation by the
+jngaarden model to the latter for moderate amplitudes has bubbles is the energy dissipated by the latter. The latter
+been studied by various authors both theoretically 24, 26— point has been nicely addressed by Rozenberg 41], who
+28] and experimentally 29-31]. restated the problem of attenuation of a traveling wave by
+The popular Caflish model 32] is a rigorous general- a cavitation zone in terms of energy conservation, without
+ization of Foldy’s theory to the nonlinear case and yields resorting to the linear hypothesis. The latter study made
+a simplified version of van Wijngaarden model, as far as use of an empirical expression, fitted on experimental re-
+the bubbly liquid is dilute enough. The latter hypothesis sults, between the power dissipated by cavitation bubbles
+has the important corollary that the mean velocity of the and the wave intensity. Doing so, realistic attenuated in-
+mixture is infinitely small, so that the momentum conser- tensity profiles near the emitter could be calculated simply,
+vation equation coincide with the one of linear acoustics and experimentally observed self-attenuation of the wave
+see Eq. below]. A physical discussion of the latter could be accounted for.
+feature can be found in Refs. 20, 21]. The last remarks suggests that the relaxation of the
+Under the linear approximation, the Caflish model re- linear hypothesis is necessary to correctly predict attenu-
+duces to the famous dispersion relation of Foldy, which ation by inertial bubbles, so that one should revert to the
+can be extended to calculate a wave attenuation coeffi- original fully nonlinear form of the Caflish model. How-
+cient, accounting for dissipation by a linearly oscillating ever, although valid for any wave amplitude, the latter re-
+bubble 20] and to polydisperse bubbles size distributions. mains intractable for large multi-dimensional geometries,
+Linearization allows a simple description of the sound field since it requires time-dependent simulations, and presents
+by an Helmholtz equation, and has been used in studies convergence problems in the range of inertial cavitation,
+of the coupling between wave propagation and the bubble even in 1D 42, 43]. Thus, an intermediate model, simple
+field. The gain obtained by simplifying the wave equation enough to be numerically tractable, but properly account-
+allows a complex description of its coupling with the bub- ing for the true energy dissipation by inertial bubbles, is
+ble population evolution, spatially and along the size axis. necessary.
+Following such an approach, Kobelev & Ostrovski 33] have The motivation of this work is the derivation of such a
+proposed an elegant model of self-action of low amplitude reduced model, and can be viewed as a systematic formal-
+sound waves in bubbly liquids, accounting for the bub- ization of Rozenberg’s approach 41], based on the non-
+ble drift under the action of primary Bjerknes forces and linear Caflish model. The present paper extends the ideas
+bubble coalescence favored by secondary Bjerknes forces. formerly presented in Ref. 44] and is organized as follows.
+Although the wave equation in this study was linear, the In section 2, we recast the fully nonlinear Caflish equations
+global model was nonlinear, owing to the dependence of into a mechanical energy balance equation, where we ex-
+the wave number on the varying bubble density, which press explicitly the energy lost by the bubbly liquid on
+conversely evolves non linearly with the sound field. Spe- average over an oscillation period, as functions of period-
+cific solutions under different hypothesis could catch the averaged quantities of a single bubble dynamics. This en-
+experimentally observed self-transparency, self-focusing of = ergy loss is then computed numerically, by simulating a
+sound waves in bubbly liquids, and destabilization of ho- bubble radial dynamics equation over a typical parameter
+mogeneous bubble distributions. The latter instability has range, including the range of inertial cavitation involved
+also been demonstrated in Ref. 34| by a similar approach, in cavitation and sonochemistry experiments. In section 3,
+but involving a slightly different physics. we then seek a reduction of the Caflish equations for the
+The attenuation of sound waves by oscillating bubbles main harmonic component of the acoustic field, involving
+2

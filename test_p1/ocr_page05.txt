@@ -1,0 +1,60 @@
+Pei, = Row/ Xg, Where x, 1s the thermal diffusivity of the threshold with Blake threshold, Rozenberg’s result sug-
+gas in ambient conditions 55, 56]. gests that IT, +11, would scale as P*— P24 for P > Pg, and
+Figure [1] displays the values calculated for II and IT, would be 0 under the threshold. This is almost consistent
+for an air bubble of ambient radius Ry = 3 pm driven with our results, except that redrawing Fig. [1] with linear
+at 20 kHz in water at ambient pressure and temperature. scale (not shown) would reveal a linear dependence rather
+First, it is seen that the power dissipated either by viscous than a quadratic one. However, on one hand, Rozenberg’s
+friction (thick solid line) or by thermal diffusion (thick results apply to 500 kHz fields, and on the other hand, it is
+dashed line) quickly rises in the neighborhood of the Blake highly probable that the bubble density /V also depends on
+threshold (where approximately II} ~ II¥, ~ 1), well above the local sound field, despite we will consider N constant
+their value predicted by linear theory (between 5 and 6 above the Blake threshold in the model developed below
+orders of magnitude). This clearly demonstrates the need (see Sec. [4].
+for exact nonlinear bubble dynamics to calculate realistic We repeated the same calculation for a 8 um bubble
+values of the energy dissipated by inertial bubbles. (Fig.[2). The scale is chosen identical as Fig.[1]in order to
+make the comparison easier. The same conclusions apply
+1 0° except that the increase of viscous dissipation II; over the
+Blake threshold is lower than for the 3 ym bubble, and re-
+1 0% mains of the same order of magnitude as Ili; for moderate
+driving pressures.
+10" meme & Pp
+0 3
+- 10 10
+— 2 !
+2107 10
+= 107° 5 Co 10 | Te emmmmmmmmmTTT
+10” EE 10°
+= = i
+10~" 2107 |
+— 1072 AEE
+0 05 1 15 2 25 3 R/RE
+p* 10° oo
+_4 4
+Figure 1: Dimensionless power dissipated by an argon bubble of 10 ,/
+ambient radius Rg = 3 pm in water, at 20 kHz: by viscosity IT} [thick
+lid line, from Eq. (13)]; hermal diffusion, IIF
+line, from Eq oI. =H Jon lines a a damned 0 0.5 1.5 2 2.5 3
+obtained from linear theory, Eqs. (15)-(16) (solid: I17 15; dashed: P
+ITE, tin) The vertical dash-dotted line represents the Blake threshold
+calculated by Eq. (6) . Figure 2: Same as Fig.[1lfor a 8 um bubble.
+
+Another interesting feature is that, for the parameters To assess more clearly the dependence of 11, and Ili}, on
+used in Fig. viscous dissipation becomes much larger the ambient radius Ry, we calculated II, and ll;;, at con-
+than the thermal one (more than one order of magnitude), stant P* = 1.5, but varying Ry. The result is displayed in
+for driving pressures above the Blake threshold, whereas Fig. Viscous dissipation lI, is much larger than ther-
+linear theory predicts the opposite in this parameter range. mal dissipation Il;;, just above the Blake threshold, and
+Viscous dissipation in the liquid is thus found to largely decreases below Ili, only above Ry ~ 10 um.
+predominate over the thermal one for 3 pum inertial bub- More curves like the ones of Figs. [1] [2] and [3] could be
+bles. drawn, but we can summarize the comparison of II, and
+
+It is also interesting to interpret these results in the II, above the Blake threshold as follows: II, predominates
+light of the experimental data reported by Rozenberg 41], for larger drivings and smaller bubbles, while the opposite
+who fitted the volumic power dissipated in the cavitation is true for larger bubbles and smaller drivings. Since for
+zone by the following function of sound intensity I: large drivings, surface instabilities maintain the ambient
+
+i. radii of inertial bubbles in a small interval just above the
+D — A = 1), I> 1; | (17) Blake threshold 1, 3, 57], this suggests that viscous fric-
+0, I< I tion would be the predominant dissipation phenomenon in
+where I; is the intensity cavitation threshold. Identifying cavitation clouds. oo
+P with N (IT, + II,), noting that sound intensity I scales The real power dissipated by an inertial bubble is there-
+as P? for traveling waves, and identifying the cavitation fore larger than the one predicted by linear theory by sev-
+5
